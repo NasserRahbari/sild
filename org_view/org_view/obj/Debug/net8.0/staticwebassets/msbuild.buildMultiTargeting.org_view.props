@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\org_view.props" />
+</Project>

@@ -1,0 +1,72 @@
+﻿@page "/OrgInfo"
+
+@using Services
+@using Repositories
+@using Entities
+@using Context
+
+@inject IOrgService OrgService
+@inject IOrgRepository OrgRepository
+@inject OrgContext orgContext
+
+<h3>OrgInfo</h3>
+@if (org == null)
+{
+    <p><em>Loading....</em></p>
+}
+else
+{
+    <table>
+        <tr>
+            <td>Organisasjonsnummer </td>
+            <td colspan="2"><input type="text" name="org_nummer" width="50" id="org_id_tb" @bind="orgToBeFetched" @bind:event="onchange" /></td>
+        </tr>
+        <tr><td colspan="3"><button type="submit" @onclick="OnsubmitSearh">Search</button> </td></tr>
+        <br />
+        <br />
+
+        <thead>
+        <th>Organisasjonsnummer</th>
+        <th>Navn</th>
+        <th>Antall ansatt</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@org.Id</td>
+                <td>@org.Name</td>
+                <td>@org.NumberOfEmployee</td>
+            </tr>
+            <tr>
+                <td colspan="3"><button id="id_save" type="submit" name="btn_save" @onclick="OnSubmitSave">Add Org</button></td>
+            </tr>
+
+        </tbody>
+
+    </table>
+}
+@code {
+    OrgEntities org = new OrgEntities();//Org();
+    public string orgToBeFetched { get; set; }
+
+    protected async void OnsubmitSearh(MouseEventArgs mouseEventArgs)
+    {
+        var search_for = orgToBeFetched;
+        if (search_for.Length > 0)
+        {
+            var resul_as_dto = await OrgService.GetOrgAsDto(search_for);
+            org.Id = resul_as_dto.Id; // "951206091";
+            org.Name = resul_as_dto.Name; // "Org Name";
+            org.NumberOfEmployee = resul_as_dto.NumberOfEmployee;
+            orgToBeFetched = "";
+        }
+    }
+    protected async Task OnSubmitSave(MouseEventArgs mouseEventArgs)
+    {
+        var org_from_models = new OrgEntities();
+        org_from_models.Id = org.Id;
+        org_from_models.Name = org.Name;
+        org_from_models.NumberOfEmployee = org.NumberOfEmployee;
+
+        await OrgRepository.AddAsync(org_from_models);
+    }
+}

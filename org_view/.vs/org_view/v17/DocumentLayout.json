@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view.client\\pages\\orginfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|solutionrelative:org_view.client\\pages\\orginfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view.client\\models\\org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|solutionrelative:org_view.client\\models\\org.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view.client\\repositories\\orgrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|solutionrelative:org_view.client\\repositories\\orgrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view.client\\entities\\orgentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|solutionrelative:org_view.client\\entities\\orgentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view.client\\services\\orgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|solutionrelative:org_view.client\\services\\orgservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view.client\\context\\orgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|solutionrelative:org_view.client\\context\\orgcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|solutionrelative:org_view.client\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D88849-7352-44C0-8C60-ACF435C8D077}|org_view\\org_view.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{07D88849-7352-44C0-8C60-ACF435C8D077}|org_view\\org_view.csproj|solutionrelative:org_view\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view.client\\repositories\\iorgrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|solutionrelative:org_view.client\\repositories\\iorgrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D88849-7352-44C0-8C60-ACF435C8D077}|org_view\\org_view.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D88849-7352-44C0-8C60-ACF435C8D077}|org_view\\org_view.csproj|solutionrelative:org_view\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|c:\\users\\rahn\\source\\repos\\private_test\\org_view\\org_view.client\\migrations\\20250113103651_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{830B1A38-353F-4DF7-B45C-87C132F9E589}|org_view.Client\\org_view.Client.csproj|solutionrelative:org_view.client\\migrations\\20250113103651_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrgContext.cs",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Context\\OrgContext.cs",
+              "RelativeDocumentMoniker": "org_view.Client\\Context\\OrgContext.cs",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Context\\OrgContext.cs",
+              "RelativeToolTip": "org_view.Client\\Context\\OrgContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T18:28:44.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrgService.cs",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Services\\OrgService.cs",
+              "RelativeDocumentMoniker": "org_view.Client\\Services\\OrgService.cs",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Services\\OrgService.cs",
+              "RelativeToolTip": "org_view.Client\\Services\\OrgService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwCUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T11:01:12.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view\\appsettings.json",
+              "RelativeDocumentMoniker": "org_view\\appsettings.json",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view\\appsettings.json",
+              "RelativeToolTip": "org_view\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T09:57:34.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view\\Program.cs",
+              "RelativeDocumentMoniker": "org_view\\Program.cs",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view\\Program.cs",
+              "RelativeToolTip": "org_view\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:16:55.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrgInfo.razor",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Pages\\OrgInfo.razor",
+              "RelativeDocumentMoniker": "org_view.Client\\Pages\\OrgInfo.razor",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Pages\\OrgInfo.razor",
+              "RelativeToolTip": "org_view.Client\\Pages\\OrgInfo.razor",
+              "ViewState": "AQIAACUAAAAAAAAAAAAIwDgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T09:15:04.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrgRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Repositories\\OrgRepository.cs",
+              "RelativeDocumentMoniker": "org_view.Client\\Repositories\\OrgRepository.cs",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Repositories\\OrgRepository.cs",
+              "RelativeToolTip": "org_view.Client\\Repositories\\OrgRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:12:30.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrgEntities.cs",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Entities\\OrgEntities.cs",
+              "RelativeDocumentMoniker": "org_view.Client\\Entities\\OrgEntities.cs",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Entities\\OrgEntities.cs",
+              "RelativeToolTip": "org_view.Client\\Entities\\OrgEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:08:33.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "org_view.Client\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Pages\\Home.razor",
+              "RelativeToolTip": "org_view.Client\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T10:55:57.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrgRepository.cs",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Repositories\\IOrgRepository.cs",
+              "RelativeDocumentMoniker": "org_view.Client\\Repositories\\IOrgRepository.cs",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Repositories\\IOrgRepository.cs",
+              "RelativeToolTip": "org_view.Client\\Repositories\\IOrgRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:11:58.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Org.cs",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Models\\Org.cs",
+              "RelativeDocumentMoniker": "org_view.Client\\Models\\Org.cs",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Models\\Org.cs",
+              "RelativeToolTip": "org_view.Client\\Models\\Org.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T09:09:33.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250113103651_initial.cs",
+              "DocumentMoniker": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Migrations\\20250113103651_initial.cs",
+              "RelativeDocumentMoniker": "org_view.Client\\Migrations\\20250113103651_initial.cs",
+              "ToolTip": "C:\\Users\\rahn\\source\\repos\\private_test\\org_view\\org_view.Client\\Migrations\\20250113103651_initial.cs",
+              "RelativeToolTip": "org_view.Client\\Migrations\\20250113103651_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T10:36:51.684Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
